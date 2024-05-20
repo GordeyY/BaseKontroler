@@ -103,4 +103,22 @@ flex-direction:column;
 a {
 color:#000000;
 }
+.tovar_7 {
+align-items:center;
+	display:flex;
+flex-direction:column;
+border:2px solid black;
+}
+.tovar_8 {
+align-items:center;
+	display:flex;
+flex-direction:column;
+border:2px solid black;
+}
+.tovar_9 {
+align-items:center;
+	display:flex;
+flex-direction:column;
+border:2px solid black;
+}
 
